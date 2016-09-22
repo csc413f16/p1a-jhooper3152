@@ -1,8 +1,8 @@
-Name:
+Name: Jenna Hooper
 
-Compilation and Run Successful:
+Compilation and Run Successful: Yes - entered a number and recieved toast message showing which number I entered
 
-Unit Test Run Successfully:
+Unit Test Run Successfully: Yes - 1 test passed
 
 # Project 1 - CSC 413 Spring 2016
 ###DUE Friday, September 23 by 5:00 PM
